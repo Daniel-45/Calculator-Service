@@ -1,0 +1,14 @@
+2020-10-16 23:27:39.9505 - CalculatorService.Server.Controllers.CalculatorController: Service called: add
+2020-10-16 23:27:39.9714 - CalculatorService.Server.Controllers.CalculatorController: Add success!!
+2020-10-16 23:40:40.1169 - CalculatorService.Server.Controllers.CalculatorController: Service called: query
+2020-10-16 23:40:40.1169 - CalculatorService.Server.Controllers.CalculatorController: There isn't operations for the id : + 9
+2020-10-16 23:40:40.1169 - CalculatorService.Server.Controllers.CalculatorController: Query success!!
+2020-10-16 23:52:46.4287 - CalculatorService.Server.Controllers.CalculatorController: Service called: query
+2020-10-16 23:52:46.4287 - CalculatorService.Server.Controllers.CalculatorController: There isn't operations for the id : + 9
+2020-10-16 23:52:46.4287 - CalculatorService.Server.Controllers.CalculatorController: Query success!!
+2020-10-16 23:53:41.7763 - CalculatorService.Server.Controllers.CalculatorController: Service called: query
+2020-10-16 23:53:41.7763 - CalculatorService.Server.Controllers.CalculatorController: There isn't operations for the id : + 2
+2020-10-16 23:53:41.7763 - CalculatorService.Server.Controllers.CalculatorController: Query success!!
+2020-10-16 23:56:54.1744 - CalculatorService.Server.Controllers.CalculatorController: Service called: query
+2020-10-16 23:56:54.1744 - CalculatorService.Server.Controllers.CalculatorController: There isn't operations for the id : + 3
+2020-10-16 23:56:54.1744 - CalculatorService.Server.Controllers.CalculatorController: Query success!!

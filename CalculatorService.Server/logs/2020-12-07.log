@@ -1,0 +1,4 @@
+2020-12-07 20:44:51.4153 - CalculatorService.Server.Controllers.CalculatorController: Service called: add
+2020-12-07 20:44:51.4363 - CalculatorService.Server.Controllers.CalculatorController: Add success!!
+2020-12-07 20:44:59.9258 - CalculatorService.Server.Controllers.CalculatorController: Service called: query
+2020-12-07 20:44:59.9258 - CalculatorService.Server.Controllers.CalculatorController: Query success!!

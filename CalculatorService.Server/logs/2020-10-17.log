@@ -1,0 +1,117 @@
+2020-10-17 00:41:06.8753 - CalculatorService.Server.Controllers.CalculatorController: Service called: add
+2020-10-17 00:41:06.8777 - CalculatorService.Server.Controllers.CalculatorController: Add success!!
+2020-10-17 00:41:14.1436 - CalculatorService.Server.Controllers.CalculatorController: Service called: divide
+2020-10-17 00:41:14.1436 - CalculatorService.Server.Controllers.CalculatorController: Divide success!!
+2020-10-17 00:41:21.2418 - CalculatorService.Server.Controllers.CalculatorController: Service called: multiply
+2020-10-17 00:41:21.2418 - CalculatorService.Server.Controllers.CalculatorController: Multiply success!!
+2020-10-17 00:41:31.5927 - CalculatorService.Server.Controllers.CalculatorController: Service called: square root
+2020-10-17 00:41:31.5927 - CalculatorService.Server.Controllers.CalculatorController: Square success!!
+2020-10-17 00:41:36.4999 - CalculatorService.Server.Controllers.CalculatorController: Service called: subtract
+2020-10-17 00:41:36.4999 - CalculatorService.Server.Controllers.CalculatorController: Substract success!!
+2020-10-17 00:41:41.7723 - CalculatorService.Server.Controllers.CalculatorController: Service called: add
+2020-10-17 00:41:41.7723 - CalculatorService.Server.Controllers.CalculatorController: Add success!!
+2020-10-17 00:41:41.8673 - CalculatorService.Server.Controllers.CalculatorController: Service called: add
+2020-10-17 00:41:41.8673 - CalculatorService.Server.Controllers.CalculatorController: BadRequest
+2020-10-17 00:41:41.8898 - CalculatorService.Server.Controllers.CalculatorController: Service called: subtract
+2020-10-17 00:41:41.8898 - CalculatorService.Server.Controllers.CalculatorController: Substract success!!
+2020-10-17 00:41:41.8948 - CalculatorService.Server.Controllers.CalculatorController: Service called: subtract
+2020-10-17 00:41:41.8948 - CalculatorService.Server.Controllers.CalculatorController: Substract success!!
+2020-10-17 00:41:41.8948 - CalculatorService.Server.Controllers.CalculatorController: Service called: multiply
+2020-10-17 00:41:41.8948 - CalculatorService.Server.Controllers.CalculatorController: Multiply success!!
+2020-10-17 00:41:41.8948 - CalculatorService.Server.Controllers.CalculatorController: Service called: multiply
+2020-10-17 00:41:41.8948 - CalculatorService.Server.Controllers.CalculatorController: BadRequest
+2020-10-17 00:41:41.8948 - CalculatorService.Server.Controllers.CalculatorController: Service called: divide
+2020-10-17 00:41:41.9088 - CalculatorService.Server.Controllers.CalculatorController: Divide success!!
+2020-10-17 00:41:41.9088 - CalculatorService.Server.Controllers.CalculatorController: Service called: divide
+2020-10-17 00:41:41.9088 - CalculatorService.Server.Controllers.CalculatorController: BadRequest
+2020-10-17 00:41:41.9258 - CalculatorService.Server.Controllers.CalculatorController: Service called: square root
+2020-10-17 00:41:41.9258 - CalculatorService.Server.Controllers.CalculatorController: Square success!!
+2020-10-17 00:41:41.9258 - CalculatorService.Server.Controllers.CalculatorController: Service called: square root
+2020-10-17 00:41:41.9258 - CalculatorService.Server.Controllers.CalculatorController: Square success!!
+2020-10-17 01:01:23.3345 - CalculatorService.Server.Controllers.CalculatorController: Service called: add
+2020-10-17 01:01:23.3615 - CalculatorService.Server.Controllers.CalculatorController: Add success!!
+2020-10-17 01:01:32.0609 - CalculatorService.Server.Controllers.CalculatorController: Service called: subtract
+2020-10-17 01:01:32.0609 - CalculatorService.Server.Controllers.CalculatorController: Substract success!!
+2020-10-17 01:01:53.2182 - CalculatorService.Server.Controllers.CalculatorController: Service called: multiply
+2020-10-17 01:01:53.2182 - CalculatorService.Server.Controllers.CalculatorController: Multiply success!!
+2020-10-17 01:02:13.3086 - CalculatorService.Server.Controllers.CalculatorController: Service called: divide
+2020-10-17 01:02:13.3086 - CalculatorService.Server.Controllers.CalculatorController: Divide success!!
+2020-10-17 01:02:24.5803 - CalculatorService.Server.Controllers.CalculatorController: Service called: square root
+2020-10-17 01:02:24.5803 - CalculatorService.Server.Controllers.CalculatorController: Square success!!
+2020-10-17 01:02:41.6415 - CalculatorService.Server.Controllers.CalculatorController: Service called: subtract
+2020-10-17 01:02:41.6415 - CalculatorService.Server.Controllers.CalculatorController: Substract success!!
+2020-10-17 01:02:53.4081 - CalculatorService.Server.Controllers.CalculatorController: Service called: square root
+2020-10-17 01:02:53.4091 - CalculatorService.Server.Controllers.CalculatorController: Square success!!
+2020-10-17 01:02:57.4860 - CalculatorService.Server.Controllers.CalculatorController: Service called: query
+2020-10-17 01:02:57.4870 - CalculatorService.Server.Controllers.CalculatorController: Query success!!
+2020-10-17 01:03:20.6993 - CalculatorService.Server.Controllers.CalculatorController: Service called: add
+2020-10-17 01:03:20.6993 - CalculatorService.Server.Controllers.CalculatorController: Add success!!
+2020-10-17 01:03:26.4321 - CalculatorService.Server.Controllers.CalculatorController: Service called: add
+2020-10-17 01:03:26.4321 - CalculatorService.Server.Controllers.CalculatorController: Add success!!
+2020-10-17 01:03:26.5101 - CalculatorService.Server.Controllers.CalculatorController: Service called: add
+2020-10-17 01:03:26.5101 - CalculatorService.Server.Controllers.CalculatorController: BadRequest
+2020-10-17 01:03:26.5282 - CalculatorService.Server.Controllers.CalculatorController: Service called: subtract
+2020-10-17 01:03:26.5282 - CalculatorService.Server.Controllers.CalculatorController: Substract success!!
+2020-10-17 01:03:26.5332 - CalculatorService.Server.Controllers.CalculatorController: Service called: subtract
+2020-10-17 01:03:26.5332 - CalculatorService.Server.Controllers.CalculatorController: Substract success!!
+2020-10-17 01:03:26.5332 - CalculatorService.Server.Controllers.CalculatorController: Service called: multiply
+2020-10-17 01:03:26.5332 - CalculatorService.Server.Controllers.CalculatorController: Multiply success!!
+2020-10-17 01:03:26.5332 - CalculatorService.Server.Controllers.CalculatorController: Service called: multiply
+2020-10-17 01:03:26.5332 - CalculatorService.Server.Controllers.CalculatorController: BadRequest
+2020-10-17 01:03:26.5332 - CalculatorService.Server.Controllers.CalculatorController: Service called: divide
+2020-10-17 01:03:26.5332 - CalculatorService.Server.Controllers.CalculatorController: Divide success!!
+2020-10-17 01:03:26.5612 - CalculatorService.Server.Controllers.CalculatorController: Service called: divide
+2020-10-17 01:03:26.5612 - CalculatorService.Server.Controllers.CalculatorController: BadRequest
+2020-10-17 01:03:26.5652 - CalculatorService.Server.Controllers.CalculatorController: Service called: square root
+2020-10-17 01:03:26.5652 - CalculatorService.Server.Controllers.CalculatorController: Square success!!
+2020-10-17 01:03:26.5652 - CalculatorService.Server.Controllers.CalculatorController: Service called: square root
+2020-10-17 01:03:26.5652 - CalculatorService.Server.Controllers.CalculatorController: Square success!!
+2020-10-17 01:06:01.7043 - CalculatorService.Server.Controllers.CalculatorController: Service called: add
+2020-10-17 01:06:01.7043 - CalculatorService.Server.Controllers.CalculatorController: Add success!!
+2020-10-17 01:06:05.8952 - CalculatorService.Server.Controllers.CalculatorController: Service called: query
+2020-10-17 01:06:05.8952 - CalculatorService.Server.Controllers.CalculatorController: Query success!!
+2020-10-17 01:20:44.1175 - CalculatorService.Server.Controllers.CalculatorController: Service called: add
+2020-10-17 01:20:44.1420 - CalculatorService.Server.Controllers.CalculatorController: Add success!!
+2020-10-17 01:22:09.3418 - CalculatorService.Server.Controllers.CalculatorController: Service called: add
+2020-10-17 01:22:09.3418 - CalculatorService.Server.Controllers.CalculatorController: Add success!!
+2020-10-17 01:22:25.8933 - CalculatorService.Server.Controllers.CalculatorController: Service called: subtract
+2020-10-17 01:22:25.8933 - CalculatorService.Server.Controllers.CalculatorController: Substract success!!
+2020-10-17 01:22:42.8896 - CalculatorService.Server.Controllers.CalculatorController: Service called: multiply
+2020-10-17 01:22:42.8896 - CalculatorService.Server.Controllers.CalculatorController: Multiply success!!
+2020-10-17 01:23:08.0503 - CalculatorService.Server.Controllers.CalculatorController: Service called: divide
+2020-10-17 01:23:08.0503 - CalculatorService.Server.Controllers.CalculatorController: Divide success!!
+2020-10-17 01:23:26.9218 - CalculatorService.Server.Controllers.CalculatorController: Service called: square root
+2020-10-17 01:23:26.9218 - CalculatorService.Server.Controllers.CalculatorController: Square success!!
+2020-10-17 01:23:32.4624 - CalculatorService.Server.Controllers.CalculatorController: Service called: query
+2020-10-17 01:23:32.4624 - CalculatorService.Server.Controllers.CalculatorController: Query success!!
+2020-10-17 01:23:37.6417 - CalculatorService.Server.Controllers.CalculatorController: Service called: query
+2020-10-17 01:23:37.6417 - CalculatorService.Server.Controllers.CalculatorController: There isn't operations for the id : + 654
+2020-10-17 01:23:37.6417 - CalculatorService.Server.Controllers.CalculatorController: Query success!!
+2020-10-17 01:23:51.8112 - CalculatorService.Server.Controllers.CalculatorController: Service called: query
+2020-10-17 01:23:51.8112 - CalculatorService.Server.Controllers.CalculatorController: Query success!!
+2020-10-17 01:24:33.8234 - CalculatorService.Server.Controllers.CalculatorController: Service called: divide
+2020-10-17 01:24:33.8234 - CalculatorService.Server.Controllers.CalculatorController: Divide success!!
+2020-10-17 01:24:39.4995 - CalculatorService.Server.Controllers.CalculatorController: Service called: add
+2020-10-17 01:24:39.4995 - CalculatorService.Server.Controllers.CalculatorController: BadRequest
+2020-10-17 01:24:46.2502 - CalculatorService.Server.Controllers.CalculatorController: Service called: multiply
+2020-10-17 01:24:46.2502 - CalculatorService.Server.Controllers.CalculatorController: Multiply success!!
+2020-10-17 01:24:49.8063 - CalculatorService.Server.Controllers.CalculatorController: Service called: add
+2020-10-17 01:24:49.8063 - CalculatorService.Server.Controllers.CalculatorController: Add success!!
+2020-10-17 01:24:49.8483 - CalculatorService.Server.Controllers.CalculatorController: Service called: add
+2020-10-17 01:24:49.8483 - CalculatorService.Server.Controllers.CalculatorController: BadRequest
+2020-10-17 01:24:49.8483 - CalculatorService.Server.Controllers.CalculatorController: Service called: subtract
+2020-10-17 01:24:49.8483 - CalculatorService.Server.Controllers.CalculatorController: Substract success!!
+2020-10-17 01:24:49.8483 - CalculatorService.Server.Controllers.CalculatorController: Service called: subtract
+2020-10-17 01:24:49.8613 - CalculatorService.Server.Controllers.CalculatorController: Substract success!!
+2020-10-17 01:24:49.8613 - CalculatorService.Server.Controllers.CalculatorController: Service called: multiply
+2020-10-17 01:24:49.8613 - CalculatorService.Server.Controllers.CalculatorController: Multiply success!!
+2020-10-17 01:24:49.8613 - CalculatorService.Server.Controllers.CalculatorController: Service called: multiply
+2020-10-17 01:24:49.8613 - CalculatorService.Server.Controllers.CalculatorController: BadRequest
+2020-10-17 01:24:49.8613 - CalculatorService.Server.Controllers.CalculatorController: Service called: divide
+2020-10-17 01:24:49.8613 - CalculatorService.Server.Controllers.CalculatorController: Divide success!!
+2020-10-17 01:24:49.8914 - CalculatorService.Server.Controllers.CalculatorController: Service called: divide
+2020-10-17 01:24:49.8914 - CalculatorService.Server.Controllers.CalculatorController: BadRequest
+2020-10-17 01:24:49.8964 - CalculatorService.Server.Controllers.CalculatorController: Service called: square root
+2020-10-17 01:24:49.8964 - CalculatorService.Server.Controllers.CalculatorController: Square success!!
+2020-10-17 01:24:49.8964 - CalculatorService.Server.Controllers.CalculatorController: Service called: square root
+2020-10-17 01:24:49.8964 - CalculatorService.Server.Controllers.CalculatorController: Square success!!
